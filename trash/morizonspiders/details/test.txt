@@ -1,0 +1,280 @@
+<div class="box-offer-inner page-break">
+	
+	<div class="box-offer-top" id="boxOffTop">
+		<h1 class="header-b mod-c desktop h1Title">Apartament, ul. Kasprowicza</h1>
+		<div>
+			<h2 class="header-e mod-a margin-bottom0 dekstop-tablet">Kasprowicza, Starówka, Kołobrzeg, zachodniopomorskie</h2>
+			<p class="map-link show-on-map-popup">zobacz mapę<em class="icon__common icon-marker-small absolute"></em></p>			
+			<div class="clr"></div>
+		</div>
+
+		 
+			<span class="icon__heart--a desktop-tablet-only "><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 23 23">
+	<path class="icon-heart-style-white icon-heart-style" d="M11.9,21.5h-0.7C10.7,21.3,1,17.4,1,8.8c0-4.5,3.1-6.6,5.9-6.6c2.3,0,3.7,1.2,4.6,2.6c0.9-1.4,2.3-2.6,4.6-2.6
+		C19,2.2,22,4.3,22,8.8C22,17.4,12.3,21.3,11.9,21.5z"></path>
+</svg></span>
+				
+		<p class="current-as absolute mobile"><span class="current-as-text">zaktualizowane:<br></span><strong>10 stycznia 2024</strong></p>
+	</div>
+	
+	<div class="gallery-slider gallery-slider-normal ">
+	
+		<div class="gallery-slider-wrapper wider" id="gallery-slider-wrapper" style="">
+			
+			<div class="gallery-nav desktop-tablet-only" id="gallery-nav">
+				<p class="nav-gallery" data-open="gallery">
+					
+					<span class="gallery-slider-counter">
+						<span class="info-count">1/10</span>					</span>
+					
+				</p>
+					
+			</div>
+
+			<ul class="box-gallery" data-slider-scope="true" style="transform: translate3d(-890px, 0px, 0px); width: 10680px; height: auto;"><li class="emptyImage state--fit-type--fill copy" data-fit-type="fill" data-alt="Mieszkanie Kołobrzeg" data-image="https://i.st-nieruchomosci-online.pl/h6rdt5l/mieszkanie-kolobrzeg.jpg" data-photo="9" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li>
+				<li class="first-photo live state--fit-type--fill" data-photo="0" data-image="" data-alt="" style="min-height: 100px; width: 890px; height:468px;"><img class="desktop" src="https://i.st-nieruchomosci-online.pl/h6rdt7l/mieszkanie-kolobrzeg.jpg" alt="Mieszkanie Kołobrzeg" style="width: 890px; height: 593px; margin-top: -62px;"><div class="live-holder"><div class="live-holder__inner"><em class="icon__common icon-live"></em><p class="live_holder__title"><span>Prezentacja</span> nieruchomości online</p><p class="live_holder__info desktop">Tę nieruchomość możesz obejrzeć na żywo,<br> nie wychodząc z domu, podczas połączenia wideo<br> z ogłoszeniodawcą poprzez:</p><p class="live_holder__icons desktop"><em class="icon-live-icons"></em></p><p class="desktop"><a class="btn-a ignoreGalleryFull">Umów się na prezentację wideo</a></p></div></div><div class="live-holder"><div class="live-holder__inner"><em class="icon__common icon-live"></em><p class="live_holder__title"><span>Prezentacja</span> nieruchomości online</p><p class="live_holder__info desktop">Tę nieruchomość możesz obejrzeć na żywo,<br> nie wychodząc z domu, podczas połączenia wideo<br> z ogłoszeniodawcą poprzez:</p><p class="live_holder__icons desktop"><em class="icon-live-icons"></em></p><p class="desktop"><a class="btn-a ignoreGalleryFull">Umów się na prezentację wideo</a></p><p class="mobile"><a class="btn-a ignoreGalleryFull ignoreGalleryFullMobile">Więcej</a></p></div></div></li>			<li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie Kołobrzeg" data-image="https://i.st-nieruchomosci-online.pl/h6rdt7l/mieszkanie-kolobrzeg.jpg" data-photo="1" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie Kołobrzeg sprzedaż" data-image="https://i.st-nieruchomosci-online.pl/h6rdt1l/mieszkanie-kolobrzeg-sprzedaz.jpg" data-photo="2" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie nad morzem" data-image="https://i.st-nieruchomosci-online.pl/h6rdtnl/mieszkanie-nad-morzem.jpg" data-photo="3" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie apartamentowiec sprzedaż" data-image="https://i.st-nieruchomosci-online.pl/h6rdvwl/mieszkanie-apartamentowiec-sprzedaz.jpg" data-photo="4" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie apartamentowiec nad morzem" data-image="https://i.st-nieruchomosci-online.pl/h6rdvdl/mieszkanie-apartamentowiec-nad-morzem.jpg" data-photo="5" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie apartamentowiec Kołobrzeg" data-image="https://i.st-nieruchomosci-online.pl/h6rdvrl/mieszkanie-apartamentowiec-kolobrzeg.jpg" data-photo="6" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie Kołobrzeg" data-image="https://i.st-nieruchomosci-online.pl/h6rdvml/mieszkanie-kolobrzeg.jpg" data-photo="7" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie Kołobrzeg" data-image="https://i.st-nieruchomosci-online.pl/h6rdtml/mieszkanie-kolobrzeg.jpg" data-photo="8" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="emptyImage state--fit-type--fill " data-fit-type="fill" data-alt="Mieszkanie Kołobrzeg" data-image="https://i.st-nieruchomosci-online.pl/h6rdt5l/mieszkanie-kolobrzeg.jpg" data-photo="9" style="min-height: 100px; width: 890px; height:468px;"><span class="zoom-holder" style="top:234px"><span class="zoom-holder-inner"></span><em class="icon__common icon-zoom-white absolute"></em></span></li><li class="first-photo live state--fit-type--fill copy" data-photo="0" data-image="" data-alt="" style="min-height: 100px; width: 890px; height:468px;"><img class="desktop" src="https://i.st-nieruchomosci-online.pl/h6rdt7l/mieszkanie-kolobrzeg.jpg" alt="Mieszkanie Kołobrzeg" style="width: 890px; height: 593px; margin-top: -62px;"><div class="live-holder"><div class="live-holder__inner"><em class="icon__common icon-live"></em><p class="live_holder__title"><span>Prezentacja</span> nieruchomości online</p><p class="live_holder__info desktop">Tę nieruchomość możesz obejrzeć na żywo,<br> nie wychodząc z domu, podczas połączenia wideo<br> z ogłoszeniodawcą poprzez:</p><p class="live_holder__icons desktop"><em class="icon-live-icons"></em></p><p class="desktop"><a class="btn-a ignoreGalleryFull">Umów się na prezentację wideo</a></p></div></div><div class="live-holder"><div class="live-holder__inner"><em class="icon__common icon-live"></em><p class="live_holder__title"><span>Prezentacja</span> nieruchomości online</p><p class="live_holder__info desktop">Tę nieruchomość możesz obejrzeć na żywo,<br> nie wychodząc z domu, podczas połączenia wideo<br> z ogłoszeniodawcą poprzez:</p><p class="live_holder__icons desktop"><em class="icon-live-icons"></em></p><p class="desktop"><a class="btn-a ignoreGalleryFull">Umów się na prezentację wideo</a></p><p class="mobile"><a class="btn-a ignoreGalleryFull ignoreGalleryFullMobile">Więcej</a></p></div></div></li></ul>
+			<span title="Poprzednie" class="slider-prev prev arrow absolute">Poprzednie<em class="icon__common icon-arrow-black-left absolute"></em></span>
+			<span title="Następne" class="slider-next next arrow absolute">Następne<em class="icon__common icon-arrow-black-right absolute"></em></span>
+			<div class="map-slider absolute" data-map="map">
+	
+	 <p class="mobile map-link back-to-gallery"><span>Wróć do galerii <em class="icon-back-to absolute"></em><em class="icon-close-h absolute mobile">X</em></span></p>
+	
+	<div class="map-list">
+		<div class="map-list-pois"></div>
+	</div>
+	
+	<div class="map-popup__plug-wrapper">
+		<div class="map-popup__plug">
+			<p class="map-popup__plug--text">Widok ulicy jest niedostępny dla tej lokalizacji</p>
+			<p><span class="btn-a close-street-view-btn">OK</span></p>
+		</div>
+	</div>
+	
+	<div class="map-type-controls map-type-google">
+		<div class="map-popup-icons__wrapper">
+			<em class="icon__common icon-map-zoomin"></em>
+			<em class="icon__common icon-map-zoomout"></em>
+		</div>
+
+		<em class="icon__common icon-map-pan-marker"></em>
+	</div>
+
+	<div class="map-type-controls map-type-mapbox">
+		<div class="map-popup-icons__wrapper">
+			<em class="icon__common icon-map-zoomin"></em>
+			<em class="icon__common icon-map-zoomout"></em>
+		</div>
+		<em class="icon__common icon-map-pan-marker"></em>
+	</div>
+	
+	<div class="map-type-controls map-type-google">
+		<em class="icon-map-pan-marker icon-map-pan-marker--big"></em>
+	</div>
+	
+	<div class="map-type-controls map-type-mapbox">
+		<em class="icon-map-pan-marker icon-map-pan-marker--big"></em>
+	</div>
+	
+	
+	<p class="map-approximate-location absolute"><span>Lokalizacja przybliżona</span></p>
+	<div id="map-google" class="map"></div>
+	<div id="map-mapbox" class="map active"></div>
+	<div id="map"></div>
+	<div id="map-loader" class="map-loader"></div>
+	<div class="map-change-type-buttons-wrapper"></div>
+</div>		</div>
+
+	</div>
+
+	<div class="box-a-bottom" id="bottomBox">
+		
+		<div class="box-offer-teaser mobile">
+		
+	<div class="box-offer-teaser-mob">
+	
+			
+		<div class="box-offer-teaser-mob-inner ">
+
+							<p class="margin-bottom10 title-a info-primary-price">565&nbsp;000&nbsp;zł</p>
+				<p class="margin-bottom10 title-a info-area">44,06&nbsp;m²</p>
+				<p class="margin-bottom45 title-b info-secondary-price">12&nbsp;823,42&nbsp;zł/m²</p>
+			
+									
+						<div class="thermometer-info animate hot-as__thermometer desktop-only">
+							<div class="hot-as__top">
+								<p>Aktualne zainteresowanie:</p>
+                                <p class="hot-as__interest">
+                                    <span class="thermometer-info-text thermometer-info-text-4" style="display:none">wysokie</span>
+                                    <span class="thermometer-info-text thermometer-info-text-5">bardzo wysokie</span>
+                                    <span class="thermometer-info-text thermometer-info-text-6" style="display:none">nadzwyczajne</span>
+                                </p>
+							</div>
+							<div class="hr-a"><hr></div>
+                            
+                            <div class="thermometer-info-text thermometer-info-text-4" style="display:none">
+                                <p class="par-a">Warto zadzwonić</p>
+                                <p class="par-a">Zainteresowanie tą ofertą rośnie</p>
+                            </div>
+                            
+                            <div class="thermometer-info-text thermometer-info-text-5">
+                                <p class="par-a">Nie zwlekaj z kontaktem.</p>
+                                <p class="par-a">Ta oferta cieszy się dużym zainteresowaniem.</p>
+                            </div>
+                            
+                            <div class="thermometer-info-text thermometer-info-text-6" style="display:none">
+                                <p class="par-a">Skontaktuj się niezwłocznie.</p>
+                                <p class="par-a">Oferta wzbudza wyjątkowe zainteresowanie.</p>
+                            </div>
+
+						<span class="icon__common icon-interest-factor factor-05 factor-big"></span>						</div>
+						
+                        					</div>
+					</div>
+
+	
+		<div class="box-offer-teaser-grad mobile hidden-mob"></div>
+	</div>		<h1 class="header-b mod-c margin-bottom0 mobile h1Title">Apartament, ul. Kasprowicza</h1>
+		
+		<p class="current-as desktop-tablet-only"><span class="current-as-text">Zaktualizowane:</span> 10 stycznia 2024</p>
+					<p class="info-price desktop-tablet-only"><span class="info-primary-price">565&nbsp;000&nbsp;zł</span>
+			<span class="info-area desktop-tablet-only">44,06&nbsp;m²</span>
+			<span class="info-secondary-price desktop-tablet-only">12&nbsp;823,42&nbsp;zł/m²</span></p>
+		
+		
+<div class="thermometer-info show-interest-info hot-as__tooltip desktop-only thermometer-info-text thermometer-info-text-4" style="display:none" data-title="Zainteresowanie tą ofertą rośnie.">
+	<span class="interest-factor factor-04"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 44" width="18" height="44">
+<g>
+	<rect x="13.62" y="7.12" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="21.82" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="14.47" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="29.16" width="3.86" height="2"></rect>
+</g>
+
+<path d="M7.19,43.43c-3.68,0-6.67-2.99-6.67-6.67c0-1.62,0.59-3.16,1.67-4.39L2.21,5.55c0-2.74,2.23-4.98,4.98-4.98
+		s4.98,2.23,4.98,4.98l0.01,26.82c1.08,1.22,1.67,2.77,1.67,4.39C13.85,40.44,10.86,43.43,7.19,43.43z M7.19,2.57
+		c-1.64,0-2.98,1.34-2.98,2.98L4.19,33.18L3.9,33.47c-0.89,0.89-1.38,2.06-1.38,3.29c0,2.57,2.09,4.67,4.67,4.67
+		c2.57,0,4.67-2.09,4.67-4.67c0-1.23-0.49-2.39-1.38-3.29l-0.29-0.29L10.16,5.55C10.16,3.91,8.83,2.57,7.19,2.57z"></path>
+
+<circle class="if if-01" style="fill:#FF7631;" cx="7.19" cy="36.72" r="2.98"></circle>
+
+<path class="if if-02" style="fill:#FF7631;" d="M8.44,34.02v-2.6c0-0.69-0.56-1.25-1.25-1.25s-1.25,0.56-1.25,1.25v2.6
+		c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-03" style="fill:#FF7631;" d="M8.44,34.02v-9.95c0-0.69-0.56-1.25-1.25-1.25s-1.25,0.56-1.25,1.25v9.95
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-04" style="fill:#FF7631;" d="M8.44,34.02V16.1c0-0.69-0.56-1.25-1.25-1.25S5.94,15.4,5.94,16.1v17.92
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-05 if-06" style="fill:#FF7631;" d="M8.44,34.02V5.5c0-0.69-0.56-1.25-1.25-1.25S5.94,4.81,5.94,5.5v28.52
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+
+</svg></span>
+	<p class="par-a">Warto zadzwonić</p>
+	<p class="par-a hot-as__interest">wysokie zainteresowanie</p>
+</div>     
+
+<div class="thermometer-info show-interest-info hot-as__tooltip desktop-only thermometer-info-text thermometer-info-text-5" data-title="Ta oferta cieszy się dużym zainteresowaniem.">
+	<span class="interest-factor factor-05"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 44" width="18" height="44">
+<g>
+	<rect x="13.62" y="7.12" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="21.82" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="14.47" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="29.16" width="3.86" height="2"></rect>
+</g>
+
+<path d="M7.19,43.43c-3.68,0-6.67-2.99-6.67-6.67c0-1.62,0.59-3.16,1.67-4.39L2.21,5.55c0-2.74,2.23-4.98,4.98-4.98
+		s4.98,2.23,4.98,4.98l0.01,26.82c1.08,1.22,1.67,2.77,1.67,4.39C13.85,40.44,10.86,43.43,7.19,43.43z M7.19,2.57
+		c-1.64,0-2.98,1.34-2.98,2.98L4.19,33.18L3.9,33.47c-0.89,0.89-1.38,2.06-1.38,3.29c0,2.57,2.09,4.67,4.67,4.67
+		c2.57,0,4.67-2.09,4.67-4.67c0-1.23-0.49-2.39-1.38-3.29l-0.29-0.29L10.16,5.55C10.16,3.91,8.83,2.57,7.19,2.57z"></path>
+
+<circle class="if if-01" style="fill:#FF7631;" cx="7.19" cy="36.72" r="2.98"></circle>
+
+<path class="if if-02" style="fill:#FF7631;" d="M8.44,34.02v-2.6c0-0.69-0.56-1.25-1.25-1.25s-1.25,0.56-1.25,1.25v2.6
+		c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-03" style="fill:#FF7631;" d="M8.44,34.02v-9.95c0-0.69-0.56-1.25-1.25-1.25s-1.25,0.56-1.25,1.25v9.95
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-04" style="fill:#FF7631;" d="M8.44,34.02V16.1c0-0.69-0.56-1.25-1.25-1.25S5.94,15.4,5.94,16.1v17.92
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-05 if-06" style="fill:#FF7631;" d="M8.44,34.02V5.5c0-0.69-0.56-1.25-1.25-1.25S5.94,4.81,5.94,5.5v28.52
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+
+</svg></span>
+	<p class="par-a">Nie zwlekaj z kontaktem</p>
+	<p class="par-a hot-as__interest">bardzo wysokie zainteresowanie</p>
+</div>
+
+<div class="thermometer-info show-interest-info hot-as__tooltip desktop-only thermometer-info-text thermometer-info-text-6" style="display:none" data-title="Oferta wzbudza wyjątkowe zainteresowanie.">
+	<span class="interest-factor factor-06"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 44" width="18" height="44">
+<g>
+	<rect x="13.62" y="7.12" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="21.82" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="14.47" width="3.86" height="2"></rect>
+</g>
+<g>
+	<rect x="13.62" y="29.16" width="3.86" height="2"></rect>
+</g>
+
+<path d="M7.19,43.43c-3.68,0-6.67-2.99-6.67-6.67c0-1.62,0.59-3.16,1.67-4.39L2.21,5.55c0-2.74,2.23-4.98,4.98-4.98
+		s4.98,2.23,4.98,4.98l0.01,26.82c1.08,1.22,1.67,2.77,1.67,4.39C13.85,40.44,10.86,43.43,7.19,43.43z M7.19,2.57
+		c-1.64,0-2.98,1.34-2.98,2.98L4.19,33.18L3.9,33.47c-0.89,0.89-1.38,2.06-1.38,3.29c0,2.57,2.09,4.67,4.67,4.67
+		c2.57,0,4.67-2.09,4.67-4.67c0-1.23-0.49-2.39-1.38-3.29l-0.29-0.29L10.16,5.55C10.16,3.91,8.83,2.57,7.19,2.57z"></path>
+
+<circle class="if if-01" style="fill:#FF7631;" cx="7.19" cy="36.72" r="2.98"></circle>
+
+<path class="if if-02" style="fill:#FF7631;" d="M8.44,34.02v-2.6c0-0.69-0.56-1.25-1.25-1.25s-1.25,0.56-1.25,1.25v2.6
+		c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-03" style="fill:#FF7631;" d="M8.44,34.02v-9.95c0-0.69-0.56-1.25-1.25-1.25s-1.25,0.56-1.25,1.25v9.95
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-04" style="fill:#FF7631;" d="M8.44,34.02V16.1c0-0.69-0.56-1.25-1.25-1.25S5.94,15.4,5.94,16.1v17.92
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+<path class="if if-05 if-06" style="fill:#FF7631;" d="M8.44,34.02V5.5c0-0.69-0.56-1.25-1.25-1.25S5.94,4.81,5.94,5.5v28.52
+			c-1.02,0.47-1.73,1.5-1.73,2.7c0,1.65,1.33,2.98,2.98,2.98c1.65,0,2.98-1.33,2.98-2.98C10.17,35.52,9.46,34.49,8.44,34.02z"></path>
+
+
+</svg></span>
+	<p class="par-a">Skontaktuj się niezwłocznie</p>
+	<p class="par-a hot-as__interest">nadzwyczajne zainteresowanie</p>
+</div>		
+				
+		<div class="clr"></div>
+		
+		<div id="attributesTable" class="box__attributes desktop">
+			
+			<div class="box__attributes--item"><em class="icon__common icon-data-floor"></em><div class="box__attributes--content"><span class="fheader">Piętro:</span><br><span class="fsize-a">3</span><span class="fsize-b">/</span><span class="fsize-b">4</span></div></div><div class="box__attributes--item"><em class="icon__common icon-data-rooms"></em><div class="box__attributes--content"><span class="fheader">Liczba pokoi:</span><br><span class="fsize-a">2</span></div></div><div class="box__attributes--item"><em class="icon__common icon-data-year-built"></em><div class="box__attributes--content"><span class="fheader">Rok budowy:</span><br><span class="fsize-a">2008</span></div></div><div class="box__attributes--item"><em class="icon__common icon-data-parking-type-0"></em><div class="box__attributes--content"><span class="fheader">Miejsce parkingowe:</span><br><span class="fsize-c">parking strzeżony w&nbsp;pobliżu</span></div></div><div class="box__attributes--item"><em class="icon__common icon-data-condition-type"></em><div class="box__attributes--content"><span class="fheader">Stan mieszkania:</span><br><span class="fsize-c">bardzo dobry</span></div></div>			
+		</div>
+		
+		<p class="map-link show-on-map mod-a mobile" style="display: block;"><span>Zobacz na mapie <em class="icon-view-map-darker absolute"></em></span></p>		
+		
+		<p class="icons-holder absolute none"><em data-title="Ogłoszenie kompletne" class="icon-complete-offer "></em></p>
+					<span class="icon__heart--a mobile  " style="top: 20px;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 23 23">
+	<path class="icon-heart-style-white icon-heart-style" d="M11.9,21.5h-0.7C10.7,21.3,1,17.4,1,8.8c0-4.5,3.1-6.6,5.9-6.6c2.3,0,3.7,1.2,4.6,2.6c0.9-1.4,2.3-2.6,4.6-2.6
+		C19,2.2,22,4.3,22,8.8C22,17.4,12.3,21.3,11.9,21.5z"></path>
+</svg></span>
+				<div class="clr"></div>
+	</div>
+</div>

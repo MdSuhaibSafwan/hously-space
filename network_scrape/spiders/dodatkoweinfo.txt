@@ -1,0 +1,72 @@
+##top table
+#Dla domów
+Powierzchnia działki
+Rodzaj zabudowy (dla mieszkań jest w dolnej tabeli)
+Liczba pokoi
+Certyfikat energetyczny
+
+
+#Dla działek 
+Położenie
+Typ działki
+Wymiary
+Typ ogłoszeniodawcy
+
+#Dla lokali użytkowych
+Umiejscowienie lokalu
+Rynek
+Przeznaczenie
+
+#Dla hal i magazynów
+Konstrukcja
+Wysokość
+
+
+#Dla garaży
+Oświetlenie
+
+
+
+
+##bottom table
+#Dla domów
+Położenie
+Dach
+Dach
+Poddasze
+Dom rekreacyjny
+Pokrycie dachu
+
+
+#Dla działek
+Ogrodzenie
+Dojazd
+Okolica
+
+
+#Dla hal i magazynów
+Pomieszczenia biurowe
+Zaplecze socjalne
+Parking
+Rampa
+Posadzka
+
+
+
+
+
+
+#Dla inwestycji osobna tabela 
+
+data-cy="project.additional-information.table"
+
+
+Rozpoczęcie budowy
+Liczba kondygnacji
+Stan inwestycji
+Powierzchnia
+Wysokość pomieszczeń
+Bezpieczeństwo
+Udogodnienia
+Powierzchnie dodatkowe
+

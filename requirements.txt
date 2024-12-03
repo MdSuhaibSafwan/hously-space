@@ -1,0 +1,22 @@
+/var/www/hously.space
+
+python run_spider_scheduler.py
+scrapy crawl otodom_images
+scrapy crawl otodom_details
+scrapy crawl nonline_urls
+
+
+pip install scrapy
+pip install scrapy-djangoitem
+pip install apscheduler  
+pip install requests
+pip install scrapy django psycopg2-binary requests beautifulsoup4
+
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+
+cd /var/www/hously.space/network_scraper
+scrapy crawl otodom
